@@ -6,4 +6,4 @@
 
 🤔 I'm a young man that want to expand his knowledge about the world of programming and keep learning after be able to work as programmer.
 
-📫 My main email is caarlosluzz@gmail.com, u can contact me there.
+📫 U have my email in my profile, u can contact me there.
