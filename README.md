@@ -4,7 +4,7 @@ I want to expand my knowledge about the world of programming and keep learning a
 </p>
 <h5 align=center>
   
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://instagram.com/carlosluzg">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>.
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 ![krlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=krlosl&show_icons=true&theme=tokyonight)
