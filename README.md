@@ -3,8 +3,6 @@
 I want to expand my knowledge about the world of programming and keep learning after be able to work as programmer.
 </p>
 <h5 align=center>
-  
-<a href="https://instagram.com/carlosluzg">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 ![krlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=krlosl&show_icons=true&theme=tokyonight)
 
